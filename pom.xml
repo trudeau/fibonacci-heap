@@ -29,7 +29,7 @@
 
   <name>Trudeau - Collections - Fibonacci Heap</name>
   <description>Fibonacci Heap data structure implementation.</description>
-  <url>https://github.com/trudeau/fibonacci-heap</url>
+  <url>http://trudeau.github.io/fibonacci-heap</url>
 
   <scm>
     <url>http://github.com/trudeau/fibonacci-heap</url>
@@ -44,5 +44,11 @@
     <system>Trevis CI</system>
     <url>https://travis-ci.org/trudeau/fibonacci-heap/</url>
   </ciManagement>
+  <distributionManagement>
+    <site>
+      <id>github</id>
+      <url>gitsite:git@github.com/trudeau/fibonacci-heap.git</url>
+    </site>
+  </distributionManagement>
 
 </project>
