@@ -20,7 +20,7 @@
   <parent>
     <groupId>org.99soft.trudeau</groupId>
     <artifactId>trudeau-parent</artifactId>
-    <version>1-SNAPSHOT</version>
+    <version>1</version>
   </parent>
 
   <groupId>org.99soft.trudeau.collections</groupId>
